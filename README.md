@@ -13,8 +13,9 @@ This project implements **ownCloud** on **AWS** to provide a secure file-sharing
 - **NAT Instance** for internet access to private subnet
 - **Security Groups** configured to allow only necessary traffic
 
-### 📌 Architecture Diagram
-*(Insert architecture diagram here if available.)*
+### Architecture Diagram
+![Architecture Diagram]([https://i.imgur.com/L5FqZnc.png](https://ibb.co/56tKnQM))
+
 
 ---
 
