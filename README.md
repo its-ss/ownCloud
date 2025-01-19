@@ -14,7 +14,7 @@ This project implements **ownCloud** on **AWS** to provide a secure file-sharing
 - **Security Groups** configured to allow only necessary traffic
 
 ### Architecture Diagram
-![Architecture Diagram]([https://i.imgur.com/L5FqZnc.png](https://ibb.co/56tKnQM))
+![IMAGE](https://ibb.co/56tKnQM)
 
 
 ---
